@@ -1,0 +1,1 @@
+Simple python3 skeleton file for MongoDB / pymongo.
